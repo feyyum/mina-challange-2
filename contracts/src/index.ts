@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { MinaChallenge2 } from './MinaChallange2.js';
 
-export { Add };
+export { MinaChallenge2 };
